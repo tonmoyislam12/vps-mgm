@@ -1,5 +1,5 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/tonmoyislam12/vps-mgm)
 # FREE VPS with preinstalled Bug Bounty Tools!
 
 ### Features:
